@@ -1,6 +1,6 @@
 // Definición de la función obtenerInformacion
 const obtenerInformacion = (materia) => {
-  // Objeto con información de las materias y los alumnos
+  // Objeto con información de las materias y el profesor(1) y los alumnos
   materias = {
     fisica: ["Pérez", "pedro", "pepito", "cofla", "maria"],
     programacion: ["Dalto", "pedro", "juan", "pepito"],
